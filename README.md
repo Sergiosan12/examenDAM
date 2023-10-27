@@ -21,4 +21,19 @@ Al crear un proyecto se crea el .gitignore, se añaden ficheros que no quieres q
 
 Para añadir los archivos al .gitignore: **Click derecho en el archivo, después le damos a la opción de git, seleccionamos .gitignore**
 
+Por último, se crea el ejecutable .jar con los siguientes pasos:
+
+* **Vamos en el IDE a project structures**
+
+* **En la parte de artifacts le damos al + y creamos uno from modules with dependences en nuestra main**
+
+* **Le damos a build --> build artifacts** esto nos crea el ejecutable de nuestro proyecto
+
+* **Ejecutamos el programa abriendolo con java -jar y se ejecuta bien en la terminal**
+
+* **Subimos todo al repositorio**
+
+
+
+
 
