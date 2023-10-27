@@ -17,6 +17,8 @@ Los siguientes pasos son:
 
 * **git push -u origin main**
 
+Al crear un proyecto se crea el .gitignore, se añaden ficheros que no quieres que se vean en tu repositorio, en mi caso creé un archivo llamado token con mi token y lo añadí al .gitignore porque no quiero que se vea, al igual que otros archivos que no son necesarios.
 
+Para añadir los archivos al .gitignore: **Click derecho en el archivo, después le damos a la opción de git, seleccionamos .gitignore**
 
 
